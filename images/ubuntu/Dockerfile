@@ -23,4 +23,11 @@ RUN apt-get clean
 
 EXPOSE 3306
 
+# Install MySQL Server and Client
+RUN apt-get update && apt-get install -y mysql-server mysql-client
+
+# Expose MySQL Port
+EXPOSE 3306
+
+# Start MySQL when the container runs
 CMD ["bash"]
