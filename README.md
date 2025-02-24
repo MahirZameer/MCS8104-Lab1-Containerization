@@ -2,7 +2,7 @@
 
 | **Key**                                                               | Value                                                                                                                                                                              |
 |---------------|---------------------------------------------------------|
-| **Group Name**                                                               | ? |
+| **Group Name**                                                               | G6|
 | **Semester Duration**                                                 | 18<sup>th</sup> November - 1<sup>st</sup> March 2025                                                                                                                       |
 
 ## Lab Manual
